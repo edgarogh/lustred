@@ -1,0 +1,9 @@
+[package]
+name = "lustred"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+either = "1.6.1"
+petgraph = "0.6.0"
+typed-arena = "2.0.1"
